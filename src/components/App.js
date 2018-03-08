@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux'
 import {BrowserRouter, Route} from 'react-router-dom'
 import ListData from './ListData'
-import {fetchData} from '../actions'
+import {fetchData} from '../actions/requestData'
 
 class App extends Component {
 

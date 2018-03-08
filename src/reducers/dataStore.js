@@ -1,4 +1,4 @@
-import {GET_DATA} from '../actions'
+import {GET_DATA} from '../actions/requestData'
 
 const initialStoreState = []
 
